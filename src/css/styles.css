@@ -31,7 +31,7 @@ body {
 
 
 
-/* Task #1 */
+/* Task 1 */
 
 .timer {
   width: 216px;
@@ -56,54 +56,5 @@ body {
   align-self: center;
 }
 
-/* Tast #2 */
-/* #datetime-picker {
-  margin-bottom: 20px;
-  margin-right: 20px;
 
-  width: 330px;
-  height: 40px;
-
-  font-size: 18px;
-  letter-spacing: 0.04em;
-  text-align: center;
-  color: #3b3b3b;
-
-  background-color: rgba(128, 203, 196, 0.6);
-  border-radius: 5px;
-  border: none;
-
-  transition: 250ms;
-}
-
-#datetime-picker:focus {
-  outline: 3px solid rgba(128, 203, 196, 1);
-  border: 3px solid #fff;
-  background-color: rgba(128, 203, 196, 1);
-}
-
-.timer {
-  padding: 20px 30px;
-  width: 600px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
-
-  font-size: 18px;
-  letter-spacing: 0.04em;
-  color: #3b3b3b;
-
-  background-color: rgba(128, 203, 196, 0.6);
-
-  border-radius: 5px;
-}
-
-.value {
-  position: relative;
-  padding: 3px;
-  background-color: rgba(128, 203, 196, 0.6);
-  border-radius: 5px;
-  font-size: 24px;
-} */
+/* Task 2 */
